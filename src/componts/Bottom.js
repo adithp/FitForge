@@ -1,6 +1,7 @@
 import React from 'react'
 
 function Bottom() {
+
     return (
         <section className="bottom">
             <h2>By The Numbers</h2>
