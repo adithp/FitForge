@@ -13,7 +13,7 @@ function App() {
       <Mission />
       <WhySection />
       <Bottom />
-      <Signup />
+      {/* <Signup /> */}
     </>
   );
 }
